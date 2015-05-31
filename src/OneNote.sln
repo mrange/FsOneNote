@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.31101.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{F2A71F9B-5D33-465A-A702-920D77279786}") = "OneNote", "OneNote\OneNote.fsproj", "{9441F036-7074-4BA0-8717-5B3CC3173034}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Debug|ARM = Debug|ARM
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|Any CPU = Release|Any CPU
+		Release|ARM = Release|ARM
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9441F036-7074-4BA0-8717-5B3CC3173034}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9441F036-7074-4BA0-8717-5B3CC3173034}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9441F036-7074-4BA0-8717-5B3CC3173034}.Debug|ARM.ActiveCfg = Debug|Any CPU
+		{9441F036-7074-4BA0-8717-5B3CC3173034}.Debug|x64.ActiveCfg = Debug|Any CPU
+		{9441F036-7074-4BA0-8717-5B3CC3173034}.Debug|x86.ActiveCfg = Debug|Any CPU
+		{9441F036-7074-4BA0-8717-5B3CC3173034}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9441F036-7074-4BA0-8717-5B3CC3173034}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9441F036-7074-4BA0-8717-5B3CC3173034}.Release|ARM.ActiveCfg = Release|Any CPU
+		{9441F036-7074-4BA0-8717-5B3CC3173034}.Release|x64.ActiveCfg = Release|Any CPU
+		{9441F036-7074-4BA0-8717-5B3CC3173034}.Release|x86.ActiveCfg = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
